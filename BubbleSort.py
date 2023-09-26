@@ -33,6 +33,7 @@ def convert_to_list(arr):
         lst.append(elem)
     return lst
 
+
 array = []
 choice = input("Считать ваш файл или создать новый? \n 1.Считать \n 2.Создать новый \n")
 if choice == '1':
